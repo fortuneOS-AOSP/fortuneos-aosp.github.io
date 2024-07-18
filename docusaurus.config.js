@@ -46,6 +46,7 @@ module.exports = {
           src: 'img/fos.svg',
         },
         items: [
+          {to: '/', label: 'General', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: "https://github.com/fortuneOS-AOSP",
