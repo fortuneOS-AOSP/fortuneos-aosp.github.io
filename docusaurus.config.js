@@ -60,7 +60,7 @@ const config = {
         items: [
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: "https://github.com/halcyonproject",
+            href: "https://github.com/fortuneOS-AOSP",
             position: "right",
             className: "header-github-link",
           },
