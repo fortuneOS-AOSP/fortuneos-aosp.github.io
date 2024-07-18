@@ -1,0 +1,16 @@
+FortuneOS:
+  label: FortuneOS
+  permalink: /fortuneos
+  description: FortuneOS as well
+A14:
+  label: A14
+  permalink: /a14
+  description: Android version
+QPR3:
+  label: QPR3
+  permalink: /qpr3
+  description: Android QPR version
+Update:
+  label: Update
+  permalink: /update
+  description: Update of source FortuneOS
