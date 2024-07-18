@@ -78,6 +78,11 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          {
+            href: 'https://t.me/FortuneOSNews',
+            label: 'Telegram',
+            position: 'right',
+          },
         ],
       },
       footer: {
