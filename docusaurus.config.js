@@ -60,9 +60,9 @@ const config = {
         items: [
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/fortuneOS-AOSP',
-            label: 'GitHub',
-            position: 'right',
+            href: "https://github.com/halcyonproject",
+            position: "right",
+            className: "header-github-link",
           },
           {
             label: "Community",
