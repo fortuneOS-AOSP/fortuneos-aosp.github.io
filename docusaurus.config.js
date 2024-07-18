@@ -5,8 +5,8 @@ module.exports = {
   title: 'FortuneOS',
   tagline: 'lorem',
   favicon: 'img/favicon.ico',
-  url: 'https://your-docusaurus-site.example.com',
-  baseUrl: '/',
+  url: 'https://hefatss.github.io',
+  baseUrl: '/FortuneOS-Blog',
   organizationName: 'fortuneOS-AOSP', // Usually your GitHub org/user name.
   projectName: 'FortuneOS', // Usually your repo name.
   onBrokenLinks: 'throw',
