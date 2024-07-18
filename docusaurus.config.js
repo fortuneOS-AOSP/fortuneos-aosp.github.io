@@ -75,19 +75,15 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Community',
+            title: 'Telegram',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Support Group',
+                href: 'https://t.me/FortuneOSChat',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Release Channel',
+                href: 'https://t.me/FortuneOSNews',
               },
             ],
           },
@@ -100,7 +96,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/fortuneOS-AOSP',
               },
             ],
           },
