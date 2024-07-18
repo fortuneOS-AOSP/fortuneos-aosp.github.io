@@ -65,9 +65,18 @@ const config = {
             position: 'right',
           },
           {
-            href: 'https://t.me/FortuneOSNews',
-            label: 'Telegram',
-            position: 'right',
+            label: "Community",
+            position: "left",
+            items: [
+              {
+                label: "Telegram (Channel)",
+                to: "https://t.me/FortuneOSNews",
+              },
+              {
+                label: "Telegram (Chat)",
+                to: "https://t.me/FortuneOSChat",
+              },
+            ],
           },
         ],
       },
