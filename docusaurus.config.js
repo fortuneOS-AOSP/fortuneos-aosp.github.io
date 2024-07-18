@@ -7,7 +7,7 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
-const config = {
+module.exports = {
   title: 'FortuneOS',
   tagline: 'lorem',
   favicon: 'img/favicon.ico',
@@ -89,5 +89,3 @@ const config = {
       },
     }),
 };
-
-export default config;
