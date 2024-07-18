@@ -39,6 +39,9 @@ module.exports = {
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
+        docs: {
+          routeBasePath: '/',
+        },
         theme: {
           customCss: './src/css/custom.css',
         },
