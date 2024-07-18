@@ -81,36 +81,7 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
-        links: [
-          {
-            title: 'Telegram',
-            items: [
-              {
-                label: 'Support Group',
-                href: 'https://t.me/FortuneOSChat',
-              },
-              {
-                label: 'Release Channel',
-                href: 'https://t.me/FortuneOSNews',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/fortuneOS-AOSP',
-              },
-            ],
-          },
-        ],
-        copyright: `Copyright © ${new Date().getFullYear()} FortuneOS, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} FortuneOS.`,
       },
       prism: {
         theme: prismThemes.github,
