@@ -1,41 +1,34 @@
-# Website
+# FortuneOS blogs
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+The FortuneOS blogs website is created as a statically generated site, constructed with the utilization of [Docusaurus](https://docusaurus.io).
 
-### Installation
+## Requirements
+- Node.js and npm: You must have `Node.js` and  `npm` (Node Package Manager) installed on your system. If you prefer `yarn` over `npm`, you can install `yarn` through `npm`.
 
+Once you have these prerequisites, you can proceed to setup the project and start developing.
+## Setup
+Clone this repository
+```bash
+git clone https://github.com/fortuneOS-AOSP/fortune-blogs.git
 ```
-$ yarn
+Go into directory
+```bash
+cd fortune-blogs
+```
+Install the required dependencies using the following command:
+```bash
+npm install
 ```
 
-### Local Development
-
-```
-$ yarn start
+## Local Development
+```bash
+npm run start
 ```
 
 This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
 
-### Build
-
+## Build
+```bash
+npm run build
 ```
-$ yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+This command generates static content into the `build` directory.
