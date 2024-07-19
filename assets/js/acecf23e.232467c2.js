@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfortune_blogs=self.webpackChunkfortune_blogs||[]).push([[903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/FortuneOS-Blog/blog","blogTitle":"Blog"}')}}]);
