@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkfortune_blogs=self.webpackChunkfortune_blogs||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Initial Release of FortuneOS","permalink":"/blog/FortuneOS","unlisted":false}]}')}}]);
